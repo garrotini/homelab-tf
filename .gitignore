@@ -1,0 +1,9 @@
+# sensitive var files
+terraform.tfvars
+*.tfvars
+.env
+
+# TF local state and cache
+*.tfstate
+*.tfstate.*
+crash.log
