@@ -32,3 +32,6 @@ cloud-init user `capitan` with your `~/.ssh/id_ed25519.pub`.
 Outputs include assigned DHCP IPs (`vm_ips`) and ready-to-run SSH commands (`ssh_commands`).
 
 
+## Inspiration
+
+- 45Drives [yt video](https://youtu.be/sb3PuGLT0RM) on 'Build Repeatable VMs in Proxmox' 
