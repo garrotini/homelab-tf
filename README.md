@@ -1,6 +1,7 @@
 # homelab-tf
 
 Terraform-managed Proxmox homelab.
+
 Right now, there's only 1 module for **enterprise linux distros** testing (AlmaLinux, Ubuntu Server, OpenSUSE) but in the future I'm planning to add more such as Kubernetes Lab and CyberSec (with vLAN, SIEM observability).
 
 ## Purposes of this homelab
